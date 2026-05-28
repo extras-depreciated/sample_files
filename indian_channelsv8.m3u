@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:20,Mazhavil Manorama HD
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:35,Anand TV 
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
+#EXTINF:60,Asianet News
+https://asianetnews.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
+#EXTINF:32,Reporter TV
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+#EXTINF:32,24 News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:32,Manorama News
+https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
+#EXTINF:19,Media One
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF:594,News18 Keralam
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+#EXTINF:79,Pulari TV 
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:35,KITE Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:36,Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:40,NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:40,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0,Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:36,Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:100,AVA
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:33, C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/chunklist.m3u8
+#EXTINF:60,NDTV World
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/main.m3u8
+#EXTINF:60,NDTV
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/main.m3u8?ads.channel=195&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1751883662~exp=1751905262~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/*!/payload/yupptvott_5_-1_c10e5a49-80a4-d79f-ca1f-043612e1ea57_IN_103.151.188.30_yuppfast_2_channel_1_-1/*~data=yupptvott_5_-1_c10e5a49-80a4-d79f-ca1f-043612e1ea57_IN_103.151.188.30_yuppfast_2_channel_1_-1~hmac=ddb83a188d31c589e95c543836bc6b7d080a287a786a7814ed0e2c508c54e875&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTV24x7&ads.language=ENG&ads.user=0
