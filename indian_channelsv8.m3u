@@ -113,18 +113,15 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Telugu News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_News.png" group-title="Telugu|News",Zee Telugu News
 https://d116gfrn8orazi.cloudfront.net/index.m3u8
 
-
 # Telugu|Movies
 
 #EXTINF:-1 tvg-name="ETV Cinema HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="Telugu|Movies",ETV Cinema HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 
-
 # Telugu|Music
 
 #EXTINF:-1 tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="Telugu|Music",ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-
 
 # Telugu|Religious
 
@@ -151,6 +148,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi|News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="Hindi|News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 # Hindi|Movies
 
@@ -188,12 +187,16 @@ http://103.99.249.139/zeecinema/index.m3u8
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400ock=720x540" group-title="Hindi|Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
+#EXTINF:-1 tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png?lock=720x540" group-title="Hindi|Movies",The Movie Club
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Hindi|Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
 
 # Hindi|Music
 
 #EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Hindi|Music",B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
-
 
 # Hindi|Sports
 
@@ -206,11 +209,23 @@ http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" group-title="Hindi|Sports",Star Sports 2 Hindi HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
-
-
 # English | News
 
-#EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="Hindi|News",NDTV 24x7
+#EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="English|News",NDTV 24x7
 https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/main.m3u8?ads.channel=195&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1751883662~exp=1751905262~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/*!/payload/yupptvott_5_-1_c10e5a49-80a4-d79f-ca1f-043612e1ea57_IN_103.151.188.30_yuppfast_2_channel_1_-1/*~data=yupptvott_5_-1_c10e5a49-80a4-d79f-ca1f-043612e1ea57_IN_103.151.188.30_yuppfast_2_channel_1_-1~hmac=ddb83a188d31c589e95c543836bc6b7d080a287a786a7814ed0e2c508c54e875&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NDTV24x7&ads.language=ENG&ads.user=0
-#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="Hindi|News",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-name="NDTV English" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="English|News",NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="English|News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" group-title="IPL 2026" group-title="",IPL 2026
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="English|News",Star Sports 1 HD
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-title="Kids",Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
