@@ -1,113 +1,187 @@
 #EXTM3U
 
 # Malayalam|Entertainment
-#EXTINF:-1 group-title="Malayalam|Entertainment",C Malayalam TV
+
+#EXTINF:-1 tvg-name="C Malayalam TV" tvg-logo="https://raw.githubusercontent.com/extras-depreciated/sample_files/refs/heads/main/cmalayalam.png" group-title="Malayalam|Entertainment",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam|Entertainment",Flowers TV USA
+
+#EXTINF:-1 tvg-name="Flowers TV USA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Malayalam|Entertainment",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam|Entertainment",Mazhavil Manorama HD
+
+#EXTINF:-1 tvg-name="Mazhavil Manorama HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Malayalam|Entertainment",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
-#EXTINF:-1 group-title="Malayalam|Entertainment",Mazhavil Manorama
+
+#EXTINF:-1 tvg-name="Mazhavil Manorama" tvg-logo="https://dtil.tmsimg.com/assets/s147769_ld_h15_aa.png?lock=720x540" group-title="Malayalam|Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+
+
 # Malayalam|News
-#EXTINF:-1 group-title="Malayalam|News",News18 Kerala
+
+#EXTINF:-1 tvg-name="News18 Kerala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Kerala.png" group-title="Malayalam|News",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 group-title="Malayalam|News",Media One
+
+#EXTINF:-1 tvg-name="Media One" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Media_One_TV.png" group-title="Malayalam|News",Media One
 https://cdn-3.pishow.tv/live/1481/master.m3u8
-#EXTINF:-1 group-title="Malayalam|News",Zee Malayalam News
+
+#EXTINF:-1 tvg-name="Zee Malayalam News" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-malayalam-17.svg" group-title="Malayalam|News",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="Malayalam|News",Manorama News
+
+#EXTINF:-1 tvg-name="Manorama News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="Malayalam|News",Manorama News
 https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam|News",Asianet News
+
+#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="Malayalam|News",Asianet News
 https://asianetnews.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
+
+
 # Malayalam|Religious
-#EXTINF:-1 group-title="Malayalam|Religious",Shalom Global
+
+#EXTINF:-1 tvg-name="Shalom Global" tvg-logo="https://i.imgur.com/wnNd3b8.png" group-title="Malayalam|Religious",Shalom Global
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="Malayalam|Religious",Shalom
+
+#EXTINF:-1 tvg-name="Shalom TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shalom.png" group-title="Malayalam|Religious",Shalom TV
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+
 # Tamil|Entertainment
-#EXTINF:-1 group-title="Tamil|Entertainment",DD Tamil
+
+#EXTINF:-1 tvg-name="DD Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="Tamil|Entertainment",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
-#EXTINF:-1 group-title="Tamil|Entertainment",TamilVision-TV
+
+#EXTINF:-1 tvg-name="Tamil Vision TV" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Tamil|Entertainment",Tamil Vision TV
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
-#EXTINF:-1 group-title="Tamil|Entertainment",Tamilan TV
+
+#EXTINF:-1 tvg-name="Tamilan TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Tamil|Entertainment",Tamilan TV
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
+
+
 # Tamil|News
-#EXTINF:-1 group-title="Tamil|News",News18 Tamil Nadu
+
+#EXTINF:-1 tvg-name="News18 Tamil Nadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18TamilNadu.png" group-title="Tamil|News",News18 Tamil Nadu
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 group-title="Tamil|News",News 7 Tamil
+
+#EXTINF:-1 tvg-name="News7 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Tamil|News",News7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 group-title="Tamil|News",Polimer News
+
+#EXTINF:-1 tvg-name="Polimer News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil|News",Polimer News
 https://live-cf-polimernews.dailyhunt.in/master.m3u8
-#EXTINF:-1 group-title="Tamil|News",Puthiya Thalaimurai
+
+#EXTINF:-1 tvg-name="Puthiya Thalaimurai" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Tamil|News",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 group-title="Tamil|News",Zee Tamil News
+
+#EXTINF:-1 tvg-name="Zee Tamil News" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="Tamil|News",Zee Tamil News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+
+
 # Tamil|Music
-#EXTINF:-1 group-title="Tamil|Music",Raj Musix Tamil
+
+#EXTINF:-1 tvg-name="Raj Musix Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil|Music",Raj Musix Tamil
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+
+
 # Tamil|Religious
-#EXTINF:-1 group-title="Tamil|Religious",Aastha Tamil
+
+#EXTINF:-1 tvg-name="Aastha Tamil" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="Tamil|Religious",Aastha Tamil
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+
+
 # Telugu|News
-#EXTINF:-1 group-title="Telugu|News",NTV Telugu
+
+#EXTINF:-1 tvg-name="NTV Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" group-title="Telugu|News",NTV Telugu
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
-#EXTINF:-1 group-title="Telugu|News",TV9 Telugu
+
+#EXTINF:-1 tvg-name="TV9 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="Telugu|News",TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Telugu|News",Zee Telugu News
-https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+
+#EXTINF:-1 tvg-name="Zee Telugu News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_News.png" group-title="Telugu|News",Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8
+
+
 # Telugu|Movies
-#EXTINF:-1 group-title="Telugu|Movies",ETV Cinema HD
+
+#EXTINF:-1 tvg-name="ETV Cinema HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="Telugu|Movies",ETV Cinema HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+
 # Telugu|Music
-#EXTINF:-1 group-title="Telugu|Music",ETV Music
+
+#EXTINF:-1 tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="Telugu|Music",ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+
 # Telugu|Religious
-#EXTINF:-1 group-title="Telugu|Religious",Aastha Telugu
+
+#EXTINF:-1 tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Telugu|Religious",Aastha Telugu
 https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
-#EXTINF:-1 group-title="Telugu|Religious",PMC Telugu
+
+#EXTINF:-1 tvg-name="PMC Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="Telugu|Religious",PMC Telugu
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+
 # Hindi|News
-#EXTINF:-1 group-title="Hindi|News",Aaj Tak HD
+
+#EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://i.imgur.com/JYLmXy4.png" group-title="Hindi|News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 group-title="Hindi|News",Awaaz India TV [Not 24/7]
+
+#EXTINF:-1 tvg-name="Awaaz India TV" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="Hindi|News",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 group-title="Hindi|News",Hindi Khabar
+
+#EXTINF:-1 tvg-name="Hindi Khabar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="Hindi|News",Hindi Khabar
 https://cdn-2.pishow.tv/live/1041/master.m3u8
-#EXTINF:-1 group-title="Hindi|News",Zee Bharat
+
+#EXTINF:-1 tvg-name="Zee Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="Hindi|News",Zee Bharat
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 group-title="Hindi|News",Zee News
+
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi|News",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+
+
 # Hindi|Movies
-#EXTINF:-1 group-title="Hindi|Movies",Anmol Cinema 2
+
+#EXTINF:-1 tvg-name="Anmol Cinema 2" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnmolCinema2_Transparent_49fbb3ad-ca3c-4e37-9746-e826fcb521ee.png" group-title="Hindi|Movies",Anmol Cinema 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",B4U Movies [Geo-blocked]
+
+#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Hindi|Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",Star Gold 2
+
+#EXTINF:-1 tvg-name="Star Gold 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png" group-title="Hindi|Movies",Star Gold 2
 http://103.253.18.58:8000/play/a00r
-#EXTINF:-1 group-title="Hindi|Movies",Star Gold Romance
+
+#EXTINF:-1 tvg-name="Star Gold Romance" tvg-logo="https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540" group-title="Hindi|Movies",Star Gold Romance
 http://103.253.18.58:8000/play/a017
-#EXTINF:-1 group-title="Hindi|Movies",Star Gold Thrills
+
+#EXTINF:-1 tvg-name="Star Gold Thrills" tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540" group-title="Hindi|Movies",Star Gold Thrills
 http://103.253.18.58:8000/play/a00o
-#EXTINF:-1 group-title="Hindi|Movies",Goldmines Bollywood
+
+#EXTINF:-1 tvg-name="Goldmines Bollywood" tvg-logo="https://i.imgur.com/6mNQ9mM.png" group-title="Hindi|Movies",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",Goldmines Movies
+
+#EXTINF:-1 tvg-name="Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Hindi|Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",Goldmines Movies 2
+
+#EXTINF:-1 tvg-name="Goldmines Movies 2" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" group-title="Hindi|Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",Star Gold
+
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Hindi|Movies",Star Gold
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",Zee Cinema HD
+
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi|Movies",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 group-title="Hindi|Movies",Goldmines
+
+#EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="Hindi|Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+
 # Hindi|Music
-#EXTINF:-1 group-title="Hindi|Music",B4U Music
+
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Hindi|Music",B4U Music
 https://cdn-2.pishow.tv/live/415/master.m3u8
+
+
 # Hindi|Sports
-#EXTINF:-1 group-title="Hindi|Sports",Sony Sports Ten 3 HD
+
+#EXTINF:-1 tvg-name="Sony Sports TEN 3 HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Hindi|Sports",Sony Sports TEN 3 HD
 http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1 group-title="Hindi|Sports",Star Sports 2 HD Hindi
+
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" group-title="Hindi|Sports",Star Sports 2 Hindi HD
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 group-title="Hindi|Sports",Star Sports 2 Hindi HD
+
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540" group-title="Hindi|Sports",Star Sports 2 Hindi HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
